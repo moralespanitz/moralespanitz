@@ -9,7 +9,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
-> 22yo AI entrepreneur · $225K raised across two startups · Building **[Pixel](https://moralespanitz.com)** — The Content Intelligence Engine.
+> 22yo AI entrepreneur · $225K raised across two startups · Building **[Pixel](https://usepixel.ai)** — The Content Intelligence Engine.
 
 Founded **QuantumHispano** (quantum computing community) at 17. 
 
