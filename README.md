@@ -23,7 +23,8 @@ Obsessed with augmenting human intelligence through AI.
 
 ## Current Projects
 
-> 🚧 Coming soon — watch this space.
+- 🔧 **[research-loop](https://github.com/moralespanitz/research-loop)** - Research Loop is a complete scientific research workflow for your coding agents
+
 
 <!-- Add your projects here as you build them:
 - 🔧 **[Project Name](https://github.com/moralespanitz/project)** - One-line description
